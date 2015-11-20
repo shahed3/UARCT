@@ -1,0 +1,5 @@
+C:\tfs\Self\UARCT\UARCT_EDU\Source\UARCT.EDU.DATA\bin\Debug\UARCT.EDU.DATA.dll
+C:\tfs\Self\UARCT\UARCT_EDU\Source\UARCT.EDU.DATA\bin\Debug\UARCT.EDU.DATA.pdb
+C:\tfs\Self\UARCT\UARCT_EDU\Source\UARCT.EDU.DATA\obj\Debug\UARCT.EDU.DATA.csprojResolveAssemblyReference.cache
+C:\tfs\Self\UARCT\UARCT_EDU\Source\UARCT.EDU.DATA\obj\Debug\UARCT.EDU.DATA.dll
+C:\tfs\Self\UARCT\UARCT_EDU\Source\UARCT.EDU.DATA\obj\Debug\UARCT.EDU.DATA.pdb

@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <style>
+        html {
+            position: absolute;
+            width: 100%;
+            min-height: 100%;
+        }
+
+        body {
+            background: #DCDDDF url("Images/background_grey.png");
+            color: #000;
+            font: 14px Arial;
+            position: absolute;
+            width: 100%;
+            min-height: 100%;
+        }
+
+            body:after {
+                white-space: pre;
+                content: "\A";
+                padding-bottom:50px;
+            }
+       
+
+        footer {
+            /*background: #ffab62;*/
+            width: 100%;
+            height: 50px;
+            position: absolute;
+            bottom: 0;
+            left: 0;
+        }
+
+    </style>
+</head>
+<body>
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    @Html.ActionLink("Application name", "Index", "Home", null, new { @class = "navbar-brand" })
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                        <li>@Html.ActionLink("About", "About", "Home")</li>
+                        <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                    </ul>
+                    @Html.Partial("_LoginPartial")
+                </div>
+            </div>
+        </div>
+        <div class="container body-content">
+            @RenderBody()
+
+            <footer>
+                <hr />
+                <p class="container text-center">&copy; 2014 - ULUL ALBAB RELIGIOUS AND CHARITY TRUST. FREE EDUCATION PROGRAM</p>
+            </footer>
+        </div>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

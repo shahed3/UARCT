@@ -1,0 +1,4 @@
+C:\tfs\Self\UARCT\UARCT_EDU\Source\UARCT.EDU.BP\bin\Debug\UARCT.EDU.BP.dll
+C:\tfs\Self\UARCT\UARCT_EDU\Source\UARCT.EDU.BP\bin\Debug\UARCT.EDU.BP.pdb
+C:\tfs\Self\UARCT\UARCT_EDU\Source\UARCT.EDU.BP\obj\Debug\UARCT.EDU.BP.dll
+C:\tfs\Self\UARCT\UARCT_EDU\Source\UARCT.EDU.BP\obj\Debug\UARCT.EDU.BP.pdb
