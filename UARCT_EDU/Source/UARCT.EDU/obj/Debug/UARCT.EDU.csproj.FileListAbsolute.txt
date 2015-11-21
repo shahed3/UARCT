@@ -50,6 +50,5 @@ C:\tfs\Self\UARCT\UARCT_EDU\Source\UARCT.EDU\bin\Microsoft.Owin.Security.OAuth.x
 C:\tfs\Self\UARCT\UARCT_EDU\Source\UARCT.EDU\bin\Microsoft.Owin.Security.Google.xml
 C:\tfs\Self\UARCT\UARCT_EDU\Source\UARCT.EDU\bin\Microsoft.Owin.Security.Twitter.xml
 C:\tfs\Self\UARCT\UARCT_EDU\Source\UARCT.EDU\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\tfs\Self\UARCT\UARCT_EDU\Source\UARCT.EDU\obj\Debug\UARCT.EDU.csprojResolveAssemblyReference.cache
 C:\tfs\Self\UARCT\UARCT_EDU\Source\UARCT.EDU\obj\Debug\UARCT.EDU.dll
 C:\tfs\Self\UARCT\UARCT_EDU\Source\UARCT.EDU\obj\Debug\UARCT.EDU.pdb
